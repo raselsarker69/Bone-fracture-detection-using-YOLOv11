@@ -3,10 +3,13 @@
 A deep learning-based computer vision system to automatically detect bone fractures from medical images using the YOLOv11 object detection model.
 
 ---
-# ![image](https://github.com/user-attachments/assets/f103c0fc-c4d5-46e6-aeeb-e60acb1fd921)
-# ![image](https://github.com/user-attachments/assets/f2569a73-a754-43dd-b402-b7caf3881abb)
-# ![image](https://github.com/user-attachments/assets/42975456-ac77-4534-a171-750c4384aa02)
-# ![image](https://github.com/user-attachments/assets/e87e978c-df58-46a0-b4ba-0ac62a64a4bf)
+# ![image](https://github.com/user-attachments/assets/597d9b10-1fa5-479a-9f6d-6a2fd9ae26a6)
+# ![image](https://github.com/user-attachments/assets/5dd183bb-16d7-4fa8-8043-f2b5f99ad309)
+# ![image](https://github.com/user-attachments/assets/4a7fcfd5-7624-4111-826b-3282f08c0719)
+# ![image](https://github.com/user-attachments/assets/6aa5d38f-e010-4397-8c51-458dd6e70055)
+# ![image](https://github.com/user-attachments/assets/038a6b3e-bb22-437a-b931-05a8021946ce)
+
+
 
 
 ## 🚀 Project Overview
